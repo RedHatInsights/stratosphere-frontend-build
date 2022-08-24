@@ -1,11 +1,11 @@
 {
-    "partnerLink": {
+    "connect": {
         "entry": [
-            "/beta/apps/partner-link/partnerLink.1661357483894.aeccf208304db8a9f5a0.js"
+            "/beta/apps/connect/connect.1661373792605.61f56ca827ef1d5001d0.js"
         ],
         "modules": [
-            "/beta/apps/partner-link/js/5716.1661357484056.aeccf208304db8a9f5a0.js",
-            "/beta/apps/partner-link/css/5716.bf31162f9befefaaa91c.css"
+            "/beta/apps/connect/js/5716.1661373792764.61f56ca827ef1d5001d0.js",
+            "/beta/apps/connect/css/5716.03664b9d69ea0a3f47a5.css"
         ]
     }
 }
