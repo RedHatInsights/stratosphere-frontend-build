@@ -10,7 +10,7 @@ node {
                       passphraseVariable: "",
                       usernameVariable: "")]) {
 
-      String APP_NAME = ""
+      String APP_NAME = "connect"
       String BRANCH = env.BRANCH_NAME.replaceAll("origin/", "")
 
       if (BRANCH == "prod-stable") {
