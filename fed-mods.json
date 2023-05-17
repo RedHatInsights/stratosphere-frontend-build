@@ -1,11 +1,11 @@
 {
     "connect": {
         "entry": [
-            "/apps/connect/connect.a27031c9a9a5d318cc73.js"
+            "/beta/apps/connect/connect.27daf713a4d4107fdd66.js"
         ],
         "modules": [
-            "/apps/connect/js/85.a27031c9a9a5d318cc73.js",
-            "/apps/connect/css/85.74e943c618f0f9665448.css"
+            "/beta/apps/connect/js/85.27daf713a4d4107fdd66.js",
+            "/beta/apps/connect/css/85.74e943c618f0f9665448.css"
         ]
     }
 }
