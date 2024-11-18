@@ -1,10 +1,10 @@
 {
     "connect": {
         "entry": [
-            "/apps/connect/connect.075f17b78f8795c0be9e.js"
+            "/apps/connect/connect.00900d6bb9e85aa8c0da.js"
         ],
         "modules": [
-            "/apps/connect/js/85.075f17b78f8795c0be9e.js",
+            "/apps/connect/js/85.00900d6bb9e85aa8c0da.js",
             "/apps/connect/css/85.63e22946df9f3209db87.css"
         ]
     }
