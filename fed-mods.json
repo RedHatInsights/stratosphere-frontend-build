@@ -1,11 +1,1 @@
-{
-    "connect": {
-        "entry": [
-            "/beta/apps/connect/connect.1ef0d2292133d48202b9.js"
-        ],
-        "modules": [
-            "/beta/apps/connect/js/85.1ef0d2292133d48202b9.js",
-            "/beta/apps/connect/css/85.63e22946df9f3209db87.css"
-        ]
-    }
-}
+{"name":"connect","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/connect/","loadScripts":["connect.e17aa93d006138528c10.js"],"buildHash":"c2f91314c932bb18dcc45ec773c9c073"}
